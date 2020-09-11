@@ -12,5 +12,5 @@ spring:
 #测试环境
 spring:
   application:
-    name: abcmsc-config-dev
+    name: abcmsc-config-test
   profiles: test
